@@ -3,8 +3,7 @@ Finding exoplanets using ML
 
 Using `GridSearch` to tune model parameters.
 
-3 models
+2 models
 
 1) SVM model
-2) Deep Learning model
-3) Logistic Regression model
+2) Logistic Regression model
